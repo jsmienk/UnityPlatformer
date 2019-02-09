@@ -13,7 +13,7 @@ public class CoinController : MonoBehaviour
     {
         gameManager = FindObjectOfType<GameManager>();
     }
-
+   
     // Update is called once per frame
     void Update()
     {
